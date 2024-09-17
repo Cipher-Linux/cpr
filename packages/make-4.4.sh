@@ -1,4 +1,5 @@
-cd make-4.2.1/
+tar -xvzf make-4.4.tar.gz
+cd make-4.4/
 ./configure
 make
 sudo ./make install
