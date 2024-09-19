@@ -1,4 +1,4 @@
-tar -xvzf nano-2.9.8.tar.gz
+tar -xvzf nano-8.2.tar.gz
 
 cd nano-2.9.8
 
